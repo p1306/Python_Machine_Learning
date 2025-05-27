@@ -1,4 +1,4 @@
-This repository contains two machine learning projects developed using Python.
+This repository contains three machine learning projects developed using Python.
 
 
 1. Eye Image Classification
